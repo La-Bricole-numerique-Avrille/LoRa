@@ -1,6 +1,11 @@
 # LoRa
 
+LoRaWAN est un protocole de communication radio qui définit comment des équipements terminaux communiquent sans fil au travers de passerelles, constituant ainsi un réseau étendu à basse consommation (LPWAN).
+Il est basé sur la technologie de modulation propriétaire LoRa, créée en 2009 par la start-up grenobloise Cycléo, et rachetée par l'entreprise américaine Semtech en 2012.
+
 ## Modules
+
+Pour démarrer avec Meshtastic, vous devez d’abord acquérir un matériel compatible.
 
 - [Heltec WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/)
 
