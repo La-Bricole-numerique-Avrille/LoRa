@@ -23,6 +23,9 @@ Meshtastic est un projet qui vous permet d’utiliser des radios LoRa bon march�
 
 - [Meshtastic Web Flasher](https://flasher.meshtastic.org/)
 
+**Heltec WiFi LoRa 32(V3)**
+
+- Presser et maintener le bouton `PRG` de la carte tout en branchant le câble USB sur le PC pour basculer en mode boot.
 
 ### Configuration
 
