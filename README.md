@@ -50,7 +50,13 @@ Meshtastic est un projet qui vous permet d’utiliser des radios LoRa bon march�
  
 ![image](https://github.com/user-attachments/assets/d14684b1-3f26-4cf7-a1cb-d08d4d06f9dd)
 
+**Rôles**
+
+![image](https://github.com/user-attachments/assets/888357ef-06b5-407b-b54e-5cb934271bfc)
+
 ### Application smartphone
 
 - [Application Android](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pli=1)
 - [Application iOS](https://meshtastic.org/docs/category/apple-apps/)
+
+
