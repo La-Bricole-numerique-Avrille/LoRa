@@ -27,6 +27,8 @@ Meshtastic est un projet qui vous permet d’utiliser des radios LoRa bon march�
 
 - Presser et maintener le bouton `PRG` de la carte tout en branchant le câble USB sur le PC pour basculer en mode boot.
 
+![image](https://github.com/user-attachments/assets/9ec98a84-7b37-4d7c-91c2-5a2c5f65abc0)
+
 ### Configuration
 
 **Interface web**
