@@ -34,3 +34,7 @@ Meshtastic est un projet qui vous permet d’utiliser des radios LoRa bon march�
 **Interface web**
 
 - https://client.meshtastic.org/
+
+- Selectionner la région correspondant à la bande de fréquence (ici 868 Mhz)
+ 
+![image](https://github.com/user-attachments/assets/d14684b1-3f26-4cf7-a1cb-d08d4d06f9dd)
