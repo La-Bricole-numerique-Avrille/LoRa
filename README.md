@@ -5,9 +5,10 @@ Il est basé sur la technologie de modulation propriétaire LoRa, créée en 200
 
 ## Modules
 
-Pour démarrer avec Meshtastic, vous devez d’abord acquérir un matériel compatible.
-
+Pour démarrer avec Meshtastic, vous devez d’abord acquérir un matériel compatible:
 - [Heltec WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/)
+
+La liste complète se trouve ici : [Supported Hardware Overview](https://meshtastic.org/docs/hardware/devices/)
 
 
 ## Meshtastic
