@@ -8,6 +8,7 @@ Il est basé sur la technologie de modulation propriétaire LoRa, créée en 200
 Pour démarrer avec Meshtastic, vous devez d’abord acquérir un matériel compatible:
 - [Heltec WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/)
 - [LILYGO Lora T3S3 v1.0](https://meshtastic.org/docs/hardware/devices/lilygo/lora/?t-lora=S3-v1)
+- [LILYGO TTGO T-Beam Devices](https://meshtastic.org/docs/hardware/devices/lilygo/tbeam/?t-beam=sx1262)
 
 La liste complète se trouve ici : [Supported Hardware Overview](https://meshtastic.org/docs/hardware/devices/)
 
